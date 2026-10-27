@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in image_gen, referenced-image edit",
+  "prompts": {
+    "hinge-after": "Use case: precise-object-edit. This is an illustrative repair comparison. Replace the corroded hinge and screws with a new clean professionally installed shiny steel concealed hinge. Clean the surrounding rust stains. Preserve the exact camera angle, framing, cabinet/sink, materials, geometry, lighting, background, and every other detail from the supplied image. No text, no labels, no collage.",
+    "drawer-after": "Use case: precise-object-edit. This is an illustrative repair comparison. Replace the worn corroded drawer runner with a new clean shiny steel telescopic drawer runner. Drawer now precisely aligned. Preserve the exact camera angle, framing, cabinet/sink, materials, geometry, lighting, background, and every other detail from the supplied image. No text, no labels, no collage.",
+    "silicone-after": "Use case: precise-object-edit. This is an illustrative repair comparison. Remove all cracked discolored silicone and replace it with a pristine straight smooth narrow white silicone bead. Clean the countertop. Preserve the exact camera angle, framing, cabinet/sink, materials, geometry, lighting, background, and every other detail from the supplied image. No text, no labels, no collage."
+  },
+  "sources": {
+    "hinge-after": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-685cb91b-dfda-45e2-ab3a-ea00522c75cf.png",
+    "drawer-after": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-c9faed61-1b99-408d-b40c-7d9b80f6e469.png",
+    "silicone-after": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-94347f75-e653-4d0e-9abb-ef95f6386b5a.png"
+  }
+}

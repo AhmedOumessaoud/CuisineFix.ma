@@ -1,0 +1,23 @@
+{
+  "tool": "Built-in image_gen",
+  "prompts": {
+    "hero": "Wide cinematic professional photograph of a Moroccan male technician wearing dark emerald polo and black work gloves, on RIGHT side repairing an open upper kitchen cabinet hinge with screwdriver. Beautiful modern taupe fitted kitchen, warm undercabinet lighting, spacious kitchen on LEFT for text overlay. Landscape 16:9. Natural realistic advertising photography. No text no logo.",
+    "hinge": "Macro professional photograph of a rusty damaged concealed cabinet hinge screwed into worn oak kitchen cabinet, open white door, realistic metal corrosion, warm neutral lighting, landscape 4:3. No text.",
+    "door": "Professional close-up photograph of two misaligned cream fitted kitchen cabinet doors rubbing together, uneven gap, slightly chipped edge, realistic premium interior photography, landscape 4:3. No text.",
+    "drawer": "Professional detailed close-up photograph of an open oak kitchen drawer with worn metal telescopic runner, slightly crooked drawer, warm neutral kitchen background, landscape 4:3. No text.",
+    "silicone": "Professional close-up photograph of cracked discolored silicone joint between cream marble kitchen counter and beige tile backsplash near stainless sink, realistic everyday wear, landscape 4:3. No text.",
+    "sealing": "Professional close-up photograph of gloved technician hand applying white silicone with orange caulking gun along beige kitchen tile backsplash and cream counter joint, warm realistic photography, landscape 4:3. No text.",
+    "adjust": "Professional close-up photograph of gloved hand using orange screwdriver to adjust shiny concealed hinge on open white modern kitchen cabinet door, oak interior, realistic warm photo landscape 4:3. No text.",
+    "kitchen": "Wide luxury modern fitted kitchen in warm cream and dark emerald, stone countertop, subtle warm lights, plant at left, no people, atmospheric evening professional interior photograph landscape 16:9, no text."
+  },
+  "sources": {
+    "hero": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-24aece5f-2ca2-4bce-b03b-9239e81cbc0b.png",
+    "hinge": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-5f0ebb65-86b1-4b13-be36-8df66e112456.png",
+    "door": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-77626da2-e876-42e5-85cf-cb3185bf51f0.png",
+    "drawer": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-7655160b-1ceb-4328-ac10-b857f9bb9f41.png",
+    "silicone": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-20a16c3b-eaf6-4e6e-ab29-b64d6a8d8f2a.png",
+    "sealing": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-cac3d29c-0d75-4f6a-94a2-9cbbeaf0953e.png",
+    "adjust": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-d0db5e98-0bcf-4b63-8ee9-3fefec8c2042.png",
+    "kitchen": "C:\\Users\\hp\\.codex\\generated_images\\01a17ea0-bfea-7593-b71f-d4aa61f2487e\\exec-ab2bdac3-f524-45d7-afa3-1fa8253c2340.png"
+  }
+}
